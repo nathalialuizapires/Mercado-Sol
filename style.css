@@ -1,0 +1,14 @@
+body { 
+background: #F58E29;
+}
+
+#banner {
+	width: 60%;
+}
+
+p{
+	text-align: center;
+}
+strong{
+	color: red;
+}
